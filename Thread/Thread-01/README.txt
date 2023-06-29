@@ -1,0 +1,1 @@
+本範例使用 1.Non Thread 2.Tread 3.ParametersThread 做比較
