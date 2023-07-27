@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexer-02", "Indexer-02\Indexer-02.csproj", "{F17A0B7C-2945-4E87-8D94-AFB4525B8E12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F17A0B7C-2945-4E87-8D94-AFB4525B8E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17A0B7C-2945-4E87-8D94-AFB4525B8E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17A0B7C-2945-4E87-8D94-AFB4525B8E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17A0B7C-2945-4E87-8D94-AFB4525B8E12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5872A74A-50C2-40A2-86B8-51808FFD1633}
+	EndGlobalSection
+EndGlobal
